@@ -9,5 +9,5 @@ Enter an ID and find the problem that most people on the same page have solved b
 
 ## usage
 ```
-python -m get-prob.py
+python -m problem-finder.py
 ```
