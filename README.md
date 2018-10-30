@@ -8,8 +8,6 @@ Enter an ID and find the problem that most people on the same page have solved b
 [bs4](https://pypi.org/project/beautifulsoup4/)
 
 ## usage
----
-
 ```
 python -m get-prob.py
 ```
